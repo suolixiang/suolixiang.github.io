@@ -1,2 +1,2 @@
-# SuoLix.github.io
+# suolixiang.github.io
 个人博客
